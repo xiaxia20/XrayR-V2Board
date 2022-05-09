@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "YOUR_PANEL_URL" # 修改这里
-      ApiKey: "YOUR_TOKEN" # 修改这里
+      ApiHost: "https://v1.hefeijuteuk.xyz" # 修改这里
+      ApiKey: "er43g4365653443ff344343fdfd4335" # 修改这里
       NodeID: 4
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
